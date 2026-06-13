@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 Computer Engineer | 🌐 Full-Stack Developer | ☁️ Cloud Enthusiast | 🤖 AI & ML Learner
+### 💻 Computer Engineer | 🌐 Full-Stack Developer | ☁️ Cloud Enthusiast | 🤖 AI & DS Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+Real-World+Projects;Learning+Something+New+Every+Day;Python+%7C+Django+%7C+Flask+%7C+AWS" />
 
@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering Graduate
-- 💻 Passionate about Software Development and Problem Solving
-- 🌱 Currently exploring AI, Machine Learning, Cloud, and DevOps
-- 🔧 Experienced with Python, Django, Flask, SQL, and Web Technologies
+- 🎓 Pursuing MTech in Computer Engineering from VJIT, Mumbai
+- Passionate about exploring Computer Science, Cloud Technologies, Data Science, and building innovative software solutions.
+- 🌱 Currently exploring Cloud, DevOps and AIDS
+- 🔧 Experienced with Python, Django, Flask, SQL, Cloud Platforms and Web Technologies
 - 📚 Always learning and building practical projects
 
 ---
@@ -46,19 +46,35 @@
 
 ---
 
-## 📌 Featured Projects
-
-🔹 Insurance Management System  
-Full-stack web application developed using Flask and SQLite.
-
-🔹 Face Recognition Security System  
-Real-time face detection and authentication web application.
-
-🔹 Inventory Management Web Application  
-Custom inventory management solution with backend development.
-
 ---
 
+## 🚀 Featured Projects
+
+### 🔐 Enhanced File Storage on Cloud using Hybrid Cryptography
+A secure cloud-based file storage system that combines AES and RSA encryption to ensure confidentiality, secure key exchange, and protected remote access using AWS.
+
+**Tech Stack:** Python • AWS • AES • RSA • Hybrid Cryptography
+
+### 🎨 AI Image Generation from Text
+Built a web application that converts natural language prompts into AI-generated images using DALL·E and NLP techniques.
+
+**Tech Stack:** Python • Flask • NLP • DALL·E • Generative AI
+
+### 🌐 Insurance Management System
+Developed a full-stack web application for managing insurance records with an intuitive interface and efficient backend processing.
+
+**Tech Stack:** Flask • SQLite • HTML • CSS
+
+---
+## 🌱 Currently Learning
+
+- ☁️ Cloud Computing & DevOps
+- 🤖 Artificial Intelligence & Data Science
+- 🐳 Docker & Containerization
+- ⚙️ CI/CD Fundamentals
+- 📊 System Design & Scalable Applications
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -74,7 +90,7 @@ Custom inventory management solution with backend development.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pratiks-patil&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
@@ -82,22 +98,20 @@ Custom inventory management solution with backend development.
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratiks-patil&theme=tokyo-night" />
 </p>
 
 ---
 
-## 💡 Quote of the Day
+## 💭 Philosophy
 
-> "Code. Learn. Build. Improve. Repeat."
-
----
+> "Driven by curiosity, inspired by innovation, and committed to building technology that makes a difference."
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: your.email@example.com
-- 🌍 Portfolio: https://yourportfolio.com
+- 💼 LinkedIn: https://www.linkedin.com/in/pratik-patil-a5447b20a/
+- 📧 Email: pratikspatil372@gmail.com
+- 🌍 Portfolio: https://pratiikpatil.netlify.app/
 
 ---
 
@@ -105,6 +119,5 @@ Custom inventory management solution with backend development.
 
 ### ⭐ Thanks for visiting my profile!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
 
 </div>
