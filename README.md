@@ -19,23 +19,42 @@
 - 📚 Always learning and building practical projects
 
 ---
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,flask,django,aws,azure,mongodb,sqlite,git,github,vscode,pycharm,tensorflow" />
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" />
 </p>
 
-<p align="center">
-  <sub>
-    Python • C • C++ • HTML • CSS • Flask • Django • AWS • Azure • MongoDB • SQLite • Git • GitHub • VS Code • PyCharm • TensorFlow
-  </sub>
+### 🌐 Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=flask,django" />
 </p>
 
-<p align="center">
-  <sub>
-    📊 Data Science • 📈 Data Analysis • 🗃️ Big Data • 📉 Tableau • 🍊 Orange Data Mining • 🧠 NLP • 👁️ Computer Vision • ✨ Generative AI • 📚 Google Colab • 📓 Jupyter Notebook • 🗄️ Oracle Database
-  </sub>
+### ☁️ Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
+
+### 📊 Also Experienced With
+- Google Colab
+- Jupyter Notebook
+- Tableau
+- Orange Data Mining
+- Oracle Database
+- Data Analysis
+- Big Data
+- Natural Language Processing (NLP)
+- Computer Vision
+- Generative AI
 ---
 
 ## 🚀 Featured Projects
