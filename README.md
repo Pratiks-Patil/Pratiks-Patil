@@ -19,51 +19,22 @@
 - 📚 Always learning and building practical projects
 
 ---
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=github_dark" />
-</p>
-
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,flask,django,aws,azure,mongodb,sqlite,git,github,vscode,pycharm,tensorflow" />
 </p>
 
-### 🌐 Frameworks & Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,django" />
+<p align="center">
+  <sub>
+    Python • C • C++ • HTML • CSS • Flask • Django • AWS • Azure • MongoDB • SQLite • Git • GitHub • VS Code • PyCharm • TensorFlow
+  </sub>
 </p>
 
-### ☁️ Cloud Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### 🤖 AI, Data Science & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Big%20Data-FF6F00?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Orange%20Data%20Mining-FF7900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" />
-</p>
-
-### 🛠️ Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<p align="center">
+  <sub>
+    📊 Data Science • 📈 Data Analysis • 🗃️ Big Data • 📉 Tableau • 🍊 Orange Data Mining • 🧠 NLP • 👁️ Computer Vision • ✨ Generative AI • 📚 Google Colab • 📓 Jupyter Notebook • 🗄️ Oracle Database
+  </sub>
 </p>
 ---
 
