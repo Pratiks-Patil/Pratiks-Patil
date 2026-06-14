@@ -75,10 +75,10 @@ Built a web application that converts natural language prompts into AI-generated
 
 **Tech Stack:** Python • Flask • NLP • DALL·E • Generative AI
 
-### 🌐 Insurance Management System
-Developed a full-stack web application for managing insurance records with an intuitive interface and efficient backend processing.
+### ☁️ To-Do Web Application with DevOps Integration
+Built a containerized task management web application and applied DevOps practices including version control and automated deployment workflows.
 
-**Tech Stack:** Flask • SQLite • HTML • CSS
+**Tech Stack:** Git/Github • Docker • Jenkins • AWS Cloud
 
 ---
 ## 🌱 Currently Learning
