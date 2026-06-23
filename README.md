@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing MTech in Computer Engineering from VJIT, Mumbai
+- 🎓 Pursuing MTech in Computer Engineering from VJTI, Mumbai
 - 💻 Passionate about exploring Computer Science, Cloud Technologies, Data Science, and building innovative software solutions.
 - 🌱 Currently exploring Cloud, DevOps and AIDS
 - 🔧 Experienced with Python, Django, Flask, SQL, Cloud Platforms and Web Technologies
