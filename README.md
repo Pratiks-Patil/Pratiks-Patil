@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 Computer Engineer | 🌐 Full-Stack Developer | ☁️ Cloud Enthusiast | 🤖 AI & DS Learner
+### 💻 Computer Engineer | ☁️ Cloud Enthusiast | 🌐 Developer | 🤖 AI & DS Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+Real-World+Projects;Learning+Something+New+Every+Day;Python+%7C+Django+%7C+Flask+%7C+AWS" />
 
